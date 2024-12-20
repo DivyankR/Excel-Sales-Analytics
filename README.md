@@ -1,6 +1,6 @@
 # AtliQ Hardware Performance Analysis
 
-![AtliQ Hardware](../mnt/data/AtliQ_Hardware_Logo.png "AtliQ Hardware Logo")
+![AtliQ Hardware](/mnt/data/AtliQ_Hardware_Updated_Logo.png "AtliQ Hardware Logo")
 
 > **Comprehensive performance evaluation for AtliQ Hardware** using Microsoft Excel to analyze financial and operational metrics across various dimensions.
 
@@ -15,6 +15,54 @@
 
 - **Tool**: Microsoft Excel
 - **Analysis Techniques**: Pivot Tables, Charts, and Data Validation
+
+## 🛠 Technical Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## 🎖 Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
+
+## Sales Report :
+
+
+- **Project objective:** 
+
+    1. Create a Customer Performance Report (https://github.com/DivyankR/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+
+    2. Conduct a comprehensive comparison between Market Performace and Sales Targets (https://github.com/DivyankR/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+
+    3. Find out Gross Margin % for Quarters by Sub-Zones (https://github.com/DivyankR/Excel-Sales-Analytics/blob/main/GM%25%20for%20Quarters%20by%20Sub-Zones.pdf)
+
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
+## Finance Report :
+
+- **Project objective:** 
+
+    1. Create Profit and Loss (P&L) reports by _[Fiscal Year]_(https://github.com/DivyankR/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Fiscal%20Year.pdf) &  
+
+    2. Create Profit and Loss (P&L) reports _[Months]_(https://github.com/DivyankR/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Months.pdf)
+
+    3. Create Profit and Loss (P&L) reports by _[Markets]_(https://github.com/DivyankR/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Market.pdf)
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ## 📦 Purpose
 
@@ -39,7 +87,6 @@ The primary objective of this project is to evaluate AtliQ Hardware's performanc
    - **Customer Performance**: View customer contribution breakdowns.
    - **Gross Margin**: Analyze percentages across sub-zones and quarters.
    - **Market vs Target**: Check market performance against predefined targets.
-3. Use slicers and filters to customize your view.
 
 ## 🤝 Contributions
 
@@ -63,4 +110,4 @@ This project is for internal use at AtliQ Hardware and is not currently licensed
 ---
 
 
-> Built with 📊 by Divyank Rawat (https://github.com/username).
+> Built with 📊 by Divyank Rawat (https://github.com/DivyankR).
