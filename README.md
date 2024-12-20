@@ -62,6 +62,5 @@ This project is for internal use at AtliQ Hardware and is not currently licensed
 
 ---
 
-![Footer](https://via.placeholder.com/1200x200 "Footer Image")
 
-> Built with 📊 by [Your Name](https://github.com/username).
+> Built with 📊 by Divyank Rawat (https://github.com/username).
